@@ -2,7 +2,7 @@
 
 1.최대 인원 4명선택가능
 
-<img width="200 alt="pl" src="https://user-images.githubusercontent.com/94453030/167079774-f4a50968-c250-400e-9251-cd00e2320ba9.png">
+<img width="200" alt="pl" src="https://user-images.githubusercontent.com/94453030/167079774-f4a50968-c250-400e-9251-cd00e2320ba9.png">
 
 2.랜덤 스트라이크 버튼 2개 선택가능하고 랜덤후 스트라이크 선택시 스페어처리로 됨.
 
